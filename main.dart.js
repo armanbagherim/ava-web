@@ -463,7 +463,7 @@ q=p.a
 s=J.T(q)
 r=p.$ti.y[1]
 return new A.EC(new A.a2(r.a(s.h(q,0)),r.a(s.h(q,1)),r.a(s.h(q,2)),r.a(s.h(q,3))),new A.ep(J.bl(a.graphemeClusterTextRange.start),J.bl(a.graphemeClusterTextRange.end)),B.CQ[J.bl(a.dir.value)])},
-cSj(a){var s,r="chromium/canvaskit.js"
+cSj(a){var s,r="canvaskit.js"
 switch(a.a){case 0:s=A.b([],t.s)
 if(A.cpo())s.push(r)
 s.push("canvaskit.js")
@@ -53104,7 +53104,7 @@ $S:6}
 A.c2K.prototype={
 $1(a){var s=A.ih().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/78fc3012e45889657f72359b005af7beac47ba3d/":s)+a},
+return(s==null?"//78fc3012e45889657f72359b005af7beac47ba3d/":s)+a},
 $S:19}
 A.ajI.prototype={
 gu(a){var s=this.a

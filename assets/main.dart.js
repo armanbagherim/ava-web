@@ -458,7 +458,7 @@ q=p.a
 s=J.T(q)
 r=p.$ti.y[1]
 return new A.EX(new A.a1(r.a(s.h(q,0)),r.a(s.h(q,1)),r.a(s.h(q,2)),r.a(s.h(q,3))),new A.ez(J.bk(a.graphemeClusterTextRange.start),J.bk(a.graphemeClusterTextRange.end)),B.CM[J.bk(a.dir.value)])},
-cVk(a){var s,r="chromium/canvaskit.js"
+cVk(a){var s,r="canvaskit.js"
 switch(a.a){case 0:s=A.b([],t.s)
 if(A.crA())s.push(r)
 s.push("canvaskit.js")
